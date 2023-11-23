@@ -1,6 +1,6 @@
 DEVICE_NAME = 'Conference Room'
 
-N_TIMES_MAX_DEV = 2
+N_TIMES_MAX_DEV = 8
 
 CALIBRATION_TX_COUNT = 15
 
